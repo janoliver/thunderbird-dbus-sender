@@ -18,4 +18,4 @@ The Busname is `org.mozilla.thunderbird.DBus` and the object path is `/org/mozil
  * new (id, author, subject): New message with id `id`, author `author` and subject `subject`
  * deleted (id): Message with the id `id` is deleted.
 
- You can listen for dbus events using the shell command `dbus-monitor`. Check it out to test if everything is working fine.
+You can listen for dbus events using the shell command `dbus-monitor`. Check it out to test if everything is working fine.
