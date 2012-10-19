@@ -1,6 +1,6 @@
 ## Thunderbird dbus sender
 
-This thunderbird Addon exmits DBus Signals on certain events. Most of the Code is taken from the (gnome-shell-extension-thunderbird-integration)[https://github.com/tanwald/gnome-shell-extension-thunderbird-integration] project by Paul Neulinger. Thank you for the great work!
+This thunderbird Addon exmits DBus Signals on certain events. Most of the Code is taken from the [gnome-shell-extension-thunderbird-integration](https://github.com/tanwald/gnome-shell-extension-thunderbird-integration) project by Paul Neulinger. Thank you for the great work!
 
 # Requirements
 
