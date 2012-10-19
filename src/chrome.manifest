@@ -1,0 +1,2 @@
+content   dbus-sender                 chrome/content/
+overlay chrome://messenger/content/messenger.xul chrome://dbus-sender/content/dbus-sender.xul
